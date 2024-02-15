@@ -6,4 +6,5 @@ body {
     max-width: 100ch;
     margin-inline: 5% 15%;
     writing-mode: horizontal-tb; 
+    padding: 10px;
    }
